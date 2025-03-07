@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Maicol  
 
-🚀 **Full Stack Developer** en constante evolución, aprendiendo y mejorando cada día.  
+🚀 **Artista del código** en constante evolución, aprendiendo y mejorando cada día.  
 💡 Apasionado por el autoaprendizaje, la innovación y la optimización de soluciones.  
 📚 Disfruto explorando nuevas tecnologías, leyendo documentación y enfrentando desafíos.  
 
